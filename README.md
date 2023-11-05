@@ -1,4 +1,6 @@
 # Summer-Project---RECOSYS
+![image](https://github.com/souravbkhot/Summer-Project---RECOSYS/assets/119442353/e858964c-a2b6-4f55-8507-a387e90ef066)
+
 This project is done for Symbiosis Institute of Geoinformatics.
 •Objective: Developed RECOSYS, a Restaurant Recommendation System, by scraping Google Maps Pune city restaurants data from Apify software.
 •Conducted sentimental analysis on reviews, using polarity, subjectivity, and segmentation, and achieved highest accuracy with SVM model.
@@ -7,3 +9,4 @@ This project is done for Symbiosis Institute of Geoinformatics.
 •Calculated user and restaurant distances using the haversine formula for accurate recommendations.
 •Created an accessible frontend page using stramlit and ngrok, allowing easy access for users. 
 •Validated the system through subjective analysis, collecting reviews from local people in Pune via a Google Form
+
