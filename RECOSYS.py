@@ -6,7 +6,7 @@
 # import warnings
 # warnings.filterwarnings("ignore")
 import nltk
-# from nltk.corpus import stopwords
+from nltk.corpus import stopwords
 nltk.download('stopwords')
 stopwords = stopwords.words('english')
 nltk.download('omw-1.4')
