@@ -1,3 +1,4 @@
+geopy
 textblob
 pandas
 nltk
