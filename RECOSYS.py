@@ -5,11 +5,11 @@
 # from pprint import pprint
 # import warnings
 # warnings.filterwarnings("ignore")
-import nltk
-from nltk.corpus import stopwords
-nltk.download('stopwords')
-stopwords = stopwords.words('english')
-nltk.download('omw-1.4')
+# import nltk
+# from nltk.corpus import stopwords
+# nltk.download('stopwords')
+# stopwords = stopwords.words('english')
+# nltk.download('omw-1.4')
 # #for data wrangling and manipulation
 
 #for data wrangling and manipulation
